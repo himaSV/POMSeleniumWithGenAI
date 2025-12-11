@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "email": "testuser@example.com", "password": "Password123" }
+  ],
+  "products": [
+    { "name": "Build your own expensive computer", "qty": 2 }
+  ]
+}

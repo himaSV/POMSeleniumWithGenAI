@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="GenAI Suite">
+    <test name="Login Tests">
+        <classes>
+          <class name="genai.app.Testcases.LoginTest"/>
+            <class name="genai.app.Testcases.HomeTest"/>
+            <class name="genai.app.Testcases.ProductTest"/>
+            <class name="genai.app.Testcases.CheckoutTest"/>
+           
+        </classes>
+    </test>
+</suite>
